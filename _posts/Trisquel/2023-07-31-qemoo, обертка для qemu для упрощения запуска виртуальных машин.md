@@ -40,7 +40,7 @@ qemoo rpm: [qemoo-x.x-x-rosa2021.1.noarch.rpm](https://mirror.yandex.ru/rosa/ros
 
 Для поддержки перетаскивания + двунаправленный буфер обмена в гостевой системе должна быть установлена `spice-vdagent` (Linux, обычно уже установленная) или [spice-guest-tools](https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-latest.exe) (Windows).
 
-![qemoo](img/gqemoo/ScreenShot8.png)
+![qemoo](/img/gqemoo/ScreenShot8.png)
 
 ## В контриб добавлен пакет - qemoo
 
