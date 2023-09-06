@@ -1,3 +1,9 @@
+---
+layout: post
+title:  ekstertera - Yandex.Disk GUI client
+category: ALTRegularGnome
+---
+
 ![[Pasted image 20230826202016.png]]
 
 ![[Pasted image 20230826202759.png]]

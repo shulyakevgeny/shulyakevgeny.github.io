@@ -1,3 +1,9 @@
+---
+layout: post
+title: Важные ссылки ALT Linux Community
+category: ALTRegularGnome
+---
+
 Важные ссылки ALT Linux Community: [Канал "Базальт СПО"](https://t.me/basealtspo) 
 [Поиск по ресурсам Альт](http://search.altlinux.org/)
 [Канал Альт Линукс](https://t.me/alt_linux_team) 
