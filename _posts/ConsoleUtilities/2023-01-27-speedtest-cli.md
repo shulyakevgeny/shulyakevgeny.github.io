@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Узнать скорость интернета
-category: Program
+category: ConsoleUtilities
 ---
 
 *Узнать скорость интернета не выходя из терминала можно узнать командой:*

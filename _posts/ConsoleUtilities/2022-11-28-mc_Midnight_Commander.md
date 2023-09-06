@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Midnight Commander (mc)
-category: Program
+category: ConsoleUtilities
 ---
 
 
