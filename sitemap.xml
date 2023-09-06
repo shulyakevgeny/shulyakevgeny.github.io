@@ -1,12 +1,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url>
+<url>
      <loc>https://shulyakevgeny.github.io/</loc>
- </url>
+</url>
  
-  <url>
+<url>
      <loc>https://shulyakevgeny.github.io/archive</loc>
- </url>
+</url>
 
-  <url>
+<url>
      <loc>https://shulyakevgeny.github.io/alt.html</loc>
- </url>
+</url>
+
+<url>
+     <loc>https://shulyakevgeny.github.io/nixos</loc>
+</url>
+
+<url>
+     <loc></loc>
+</url>
