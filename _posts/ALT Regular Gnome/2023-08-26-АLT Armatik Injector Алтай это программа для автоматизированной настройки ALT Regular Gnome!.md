@@ -1,7 +1,7 @@
 ---
 layout: post
-title: АLT Armatik Injector Алтай.Программа для автоматизированной настройки ALT Regular Gnome
-category: ALT Regular Gnome
+title: Аналог Yandex.Disk 3.0
+category: ALTRegularGnome
 ---
 
 ![[Pasted image 20230826210858.png]]
