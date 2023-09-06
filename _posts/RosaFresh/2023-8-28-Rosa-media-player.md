@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Rosa Media Player
+category: RosaFresh
+---
+
 Rosa-media-player — Rosalab Wiki
 wiki.rosalab.ru/ru/index.php/Rosa-media-player
 

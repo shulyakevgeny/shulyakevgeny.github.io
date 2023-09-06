@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Эквалайзер для RosaFresh 12.3 (Российская ОС)
-category: Program
+category: RosaFresh
 ---
 
 ***pulseaudio-equalizer-ladspa***
