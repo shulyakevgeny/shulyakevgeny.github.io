@@ -1,7 +1,7 @@
 ---
 layout: post
 title: markdown size
-category: Linux
+category: Markdown
 ---
 
 #markdown #size #src

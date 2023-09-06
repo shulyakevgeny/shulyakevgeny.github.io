@@ -1,7 +1,7 @@
 ---
 layout: post
 title: markdown all
-category: Linux
+category: Markdown
 ---
 
 #markdown

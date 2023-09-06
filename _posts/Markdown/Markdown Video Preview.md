@@ -1,7 +1,9 @@
-
+---
+layout: post
+title: Markdown Video Preview
+category: Markdown
 ---
 
-## Markdown Video Preview
 
 ## Forma
 

@@ -1,4 +1,9 @@
-## Ведение заметок.
+---
+layout: post
+title: Ведение заметок
+category: Markdown
+---
+
 
 #glow #grip #Просмотр.md #vscodium
 
