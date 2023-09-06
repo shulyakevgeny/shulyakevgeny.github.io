@@ -1,3 +1,8 @@
+---
+layout: post
+title: GNOME Tweak Tool
+category: ALTRegularGnome
+---
 
 Установить Gnome Tweak Tool в Fedora
 

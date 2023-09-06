@@ -1,3 +1,9 @@
+---
+layout: post
+title: Applications Menu - расширение
+category: ALTRegularGnome
+---
+
 ![](https://extensions.gnome.org/extension-data/icons/icon_6.png)  Applications Menu
 
 ![](https://extensions.gnome.org/extension-data/screenshots/screenshot_6_5MMPK4p.png)

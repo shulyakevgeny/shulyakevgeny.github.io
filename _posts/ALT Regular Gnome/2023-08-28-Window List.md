@@ -1,3 +1,9 @@
+---
+layout: post
+title: Window List - расширение
+category: ALTRegularGnome
+---
+
 ### Window List
 
 [![](https://extensions.gnome.org/extension-data/screenshots/screenshot_602_oSNPKPC.png)](https://extensions.gnome.org/extension-data/screenshots/screenshot_602_oSNPKPC.png)

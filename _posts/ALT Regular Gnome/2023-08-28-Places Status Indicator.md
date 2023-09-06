@@ -1,3 +1,9 @@
+---
+layout: post
+title: Places Status Indicator - расширение
+category: ALTRegularGnome
+---
+
 ### Places Status Indicator
 
 [![](https://extensions.gnome.org/extension-data/screenshots/screenshot_8_mVLeGic.png)](https://extensions.gnome.org/extension-data/screenshots/screenshot_8_mVLeGic.png)
