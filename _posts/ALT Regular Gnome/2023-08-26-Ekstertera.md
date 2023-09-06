@@ -4,9 +4,9 @@ title:  ekstertera - Yandex.Disk GUI client
 category: ALTRegularGnome
 ---
 
-![[Pasted image 20230826202016.png]]
+![1](/img/Pasted%20image%2020230826202016.png)
 
-![[Pasted image 20230826202759.png]]
+![2](/img/Pasted%20image%2020230826202759.png)
 
 ---
 

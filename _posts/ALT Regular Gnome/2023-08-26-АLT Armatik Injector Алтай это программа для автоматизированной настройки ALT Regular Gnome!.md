@@ -4,7 +4,7 @@ title: Аналог Yandex.Disk 3.0
 category: ALTRegularGnome
 ---
 
-![[Pasted image 20230826210858.png]]
+![altay](/img/Pasted%20image%2020230826210858.png)
 
 **Встречайте Алтай!** АLT Armatik Injector Алтай это программа для автоматизированной настройки ALT Regular Gnome! Программа на данный момент находится в стадии активной разработки и будет обновляться регулярно! Все ваши проблемы и предложения можно отправлять в issue на [GitHub](https://github.com/Armatik/Altai)(Позже будет добавлен gitflic). 
 

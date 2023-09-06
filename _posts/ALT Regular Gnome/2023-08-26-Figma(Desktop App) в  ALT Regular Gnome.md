@@ -1,4 +1,10 @@
-![[Pasted image 20230826215814.png]]
+---
+layout: post
+title:  Figma в ALT Regular Gnome
+category: ALTRegularGnome
+---
+
+![figma](/img/Pasted%20image%2020230826215814.png)
 
 Хочу установить **Figma** (Desktop App) в **ALT Regular Gnome**. Официального приложения для Linux не существует, если появится свистните, [ссылка на официальный сайт](https://www.figma.com/downloads/) 
 
