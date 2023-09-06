@@ -12,4 +12,4 @@ category: RosaFresh
 
  https://github.com/AKotov-dev/ginxi
 
- ![[ScreenShot.png]]
+ ![ScreenShot](/img/ScreenShot.png)

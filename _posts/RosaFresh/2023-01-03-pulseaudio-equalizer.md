@@ -6,7 +6,7 @@ category: RosaFresh
 
 ***pulseaudio-equalizer-ladspa***
 
-![[preview.png]]
+![preview](/img/preview.png)
 Многополосный эквалайзер на основе **LADSPA** для получения лучшего звука из **pulseaudio**. Этот  эквалайзер явно более мощный, чем (*устаревший?*), дополнительный от **Pulseaudio**.
 
 **Build & Install** *(установка)*
@@ -39,10 +39,10 @@ category: RosaFresh
 
 ***pulseaudio-equalizer-ladspa in RosaFresh 12.3***
 
-![[equalizer.jpg]]
+![equalizer](/img/equalizer.jpg)
 Также можно посмотреть мое видео по установке эквалайзера в **RosaFresh 12.3**,уверен что и в других  **Линуксах** установка будет происходить также.Различия могут быть в зависимостях.Как узнать установлены ли они и как их установить показано в видео.
 
-![[preview_video.jpg]]
+![preview_video](/img/preview_video.jpg)
  ***ссылка на видео***
 
 <a class="red" href="https://disk.yandex.ru/i/t2sI-ExPTEo0jw" target="_blank" >***pulseaudio-equalizer-ladspa.Install in RosaFresh 12.3***</a> 
@@ -56,7 +56,8 @@ category: RosaFresh
 И с ним все работает,как и в Fedora все на ура,даже в Live-системе.
 
 [EasyEffects](https://disk.yandex.ru/i/uOyxXlpUKHMjZg)
+
 [EasyEffects+PulseEffects](https://disk.yandex.ru/i/48lQcLP19_MoPA)
 
 И как это в Fedora 38:
-![[fedora.png]]
+![fedora](/img/fedora.png)
