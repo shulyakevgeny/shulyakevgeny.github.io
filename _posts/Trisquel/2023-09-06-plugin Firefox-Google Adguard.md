@@ -4,7 +4,7 @@ title: Adguard - расширение-переводчик для Firefox
 category: Trisquel
 ---
 
-### Adguard
+### Блокировщик рекламы AdGuard
 
 Установочный процесс,порядок действий такой:
 

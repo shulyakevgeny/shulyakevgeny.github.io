@@ -1,3 +1,9 @@
+---
+layout: post
+title: dpkg - проверить список установленных программ
+category: Trisquel
+---
+
 dpkg --list > prog.txt
 
 ### Удаление программ
@@ -11,14 +17,14 @@ dpkg --list > prog.txt
 
 В Ubuntu, Debian, Linux Mint и других дистрибутивах этого семейства команда будет выглядеть вот так:
 
-sudo apt remove firefox
+- sudo apt remove firefox
 
 Эта команда удалит пакет из системы, но некоторые конфигурационные файлы останутся и будут занимать место. 
 
 Чтобы полностью удалить программу используйте опцию purge:
 
-sudo apt purge firefox
+- sudo apt purge firefox
 
 А чтобы, также удалить зависимости, установленные вместе с пакетом, нужно после одной из предыдущих команд выполнить:
 
-sudo apt-get autoremove
+- sudo apt-get autoremove
