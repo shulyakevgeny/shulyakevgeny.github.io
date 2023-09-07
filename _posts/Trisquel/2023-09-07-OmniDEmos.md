@@ -1,3 +1,9 @@
+---
+layout: post
+title:   OmniDEmos - свободный клон дистрибутива Hybryde
+category: Trisquel
+---
+
 ## OmniDEmos
 
 Привет всем, я здесь, чтобы объявить о прибытии простого варианта Trisquel.

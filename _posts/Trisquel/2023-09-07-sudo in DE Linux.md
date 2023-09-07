@@ -1,3 +1,9 @@
+---
+layout: post
+title:   sudo для Linux
+category: Trisquel
+---
+
 **sudo in Linux**
 
 $ su

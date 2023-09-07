@@ -1,4 +1,10 @@
-Обзор
+---
+layout: post
+title:   pluma+markdown
+category: Trisquel
+---
+
+## Обзор
 
 pluma-markdown добавляет поддержку Markdown (или Markdown Extra) в pluma, текстовом редакторе MATE DE по умолчанию.
 
