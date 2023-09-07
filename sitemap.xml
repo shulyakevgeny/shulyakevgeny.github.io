@@ -13,7 +13,6 @@
 
 <url>
      <loc>https://shulyakevgeny.github.io/nixos</loc>
-
 </url>
 
 <url>
@@ -50,4 +49,7 @@
 
 <url>
      <loc>https://shulyakevgeny.github.io/diagnostics.html</loc>
+</url>
+<url>
+     <loc>https://shulyakevgeny.github.io/program.html</loc>
 </url>
