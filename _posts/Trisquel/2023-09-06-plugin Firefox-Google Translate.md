@@ -1,3 +1,9 @@
+---
+layout: post
+title: Google Translate - расширение-переводчик для Firefox
+category: Trisquel
+---
+
 ### <u>Google Translate</u>
 
 Данное расширение-переводчик для Firefox, созданное на основе сервиса от компании Google.
@@ -6,7 +12,7 @@
 
 Переходим на сайт с дополнениями для браузера: 
 
-https://addons.mozilla.org/ru/firefox/addon/google-translator-for-firefox/?src=search.
+- https://addons.mozilla.org/ru/firefox/addon/google-translator-for-firefox/?src=search.
 
 Кликаем на синюю кнопку.
 
@@ -16,18 +22,7 @@ https://addons.mozilla.org/ru/firefox/addon/google-translator-for-firefox/?src=s
 
 Откройте страницу :
 
-https://addons.mozilla.org/ru/firefox/addon/y-translate-webext/.
+- https://addons.mozilla.org/ru/firefox/addon/y-translate-webext/.
 
 Кликаем на синюю кнопку.
 
-### Adguard
-
-Установочный процесс,порядок действий такой:
-
-Открываем Мазилу.
-
-Переходим на страницу магазина расширений по ссылке:
-
- https://addons.mozilla.org/ru/firefox/addon/adguard-adblocker/?src=search.
-
-Здесь нажимаем на опцию «Добавить в Firefox».Добавить расширение Adguard для Firefox
