@@ -1,3 +1,9 @@
+---
+layout: post
+title:  rsync для резервного копирования
+category: Linux
+---
+
 #linux
 
 #!/bin/sh
