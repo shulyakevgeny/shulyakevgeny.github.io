@@ -5,7 +5,7 @@ category: RosaFresh
 ---
 
 
-Скачать RosaFresh:
+## Скачать RosaFresh:
 
 [Скачать Росу](https://www.rosalinux.ru/rosa-linux-download-links/)
 
@@ -17,7 +17,7 @@ category: RosaFresh
 
 [Как записать](https://remontcompa.ru/programmnyy-funkcional/2112-ventoy-kak-polzovatsja-utilitoj-dlja-sozdanija-zagruzochnogo-nositelja-uefi-i-legacy.html)
 
-С помощью команды **cp**:
+## С помощью команды **cp**:
 
 cp /home/user/***.iso /dev/sdX
 
@@ -35,7 +35,7 @@ sudo dd if=image.iso of=/dev/sdX status=progress
 
 Узнать можно командой **lsblk**
 
-С помощью команды: **kindd (gui для dd)**
+## С помощью команды: **kindd (gui для dd)**
 
 [2023-08-06-kindd (gui для dd).md](/_posts/ConsoleUtilities/2023-08-06-kindd%20(gui%20для%20dd).md)
 
