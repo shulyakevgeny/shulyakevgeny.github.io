@@ -1,3 +1,8 @@
+---
+layout: post
+title:   LaTeX in Alt
+category: LaTeX
+---
 
 ## Install the TexLive base
 
