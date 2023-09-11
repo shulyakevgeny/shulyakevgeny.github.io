@@ -1,4 +1,10 @@
-How do I install a .dtx file
+---
+layout: post
+title:   How do I install a .dtx file
+category: LaTeX
+---
+
+### How do I install a .dtx file
 
 Вам может понадобиться .sty файл, который можно извлечь из .dtx, выполнив следующие действия:
 

@@ -1,3 +1,9 @@
+---
+layout: post
+title:   В VS Code устанавливаем LaTex Workshop
+category: LaTeX
+---
+
 В VS Code устанавливаем LaTex Workshop
 
 1. Запускаем VS code. Создаём файл (Ctrl + N -> select language -> latex) с раширеним .tex и записываем в него код
