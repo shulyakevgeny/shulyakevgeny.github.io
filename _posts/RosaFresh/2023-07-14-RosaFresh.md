@@ -37,7 +37,7 @@ sudo dd if=image.iso of=/dev/sdX status=progress
 
 ## С помощью команды: **kindd (gui для dd)**
 
-[2023-08-06-kindd (gui для dd).md](/_posts/ConsoleUtilities/2023-08-06-kindd%20(gui%20для%20dd).md)
+[2023-08-06-kindd (gui для dd).md - ConsoleUtilities](/_posts/ConsoleUtilities/2023-08-06-kindd%20(gui%20для%20dd).md)
 
 [redos/7.3/x86_64](https://mirror.yandex.ru/redos/7.3/x86_64/os/)
 
