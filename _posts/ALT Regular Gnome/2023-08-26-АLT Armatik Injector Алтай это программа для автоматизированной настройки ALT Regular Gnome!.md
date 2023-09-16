@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Аналог Yandex.Disk 3.0
+title:  АLT Armatik Injector Алтай
 category: ALTRegularGnome
 ---
 
