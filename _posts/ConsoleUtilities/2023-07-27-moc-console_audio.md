@@ -1,6 +1,6 @@
 ---
 layout: post
-title: scrot - сделать скриншот из командной строки
+title: moc/mocp консольный проигрыватель
 category: ConsoleUtilities
 ---
 
